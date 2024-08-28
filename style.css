@@ -5,7 +5,12 @@
 }
 
 body {
+  font-size: "Baskervville SC Static", sans-serif;
   background-color: rgb(164, 74, 74);
+}
+
+.mywordl {
+  color: rgb(255, 223, 42);
 }
 
 img {
@@ -14,5 +19,15 @@ img {
 }
 
 h1 {
+  font-family: "Nerko One", cursive;
   color: rgb(255, 223, 42);
+}
+
+.title-song {
+  color: rgb(255, 223, 42);
+}
+
+ol {
+  background-color: rgb(219, 142, 155);
+  color: rgb(48, 210, 156);
 }/*# sourceMappingURL=style.css.map */

@@ -11,12 +11,31 @@
 
 }
 
-body {background-color: rgb(164, 74, 74);
+body {
+    font-size: "Baskervville SC Static", sans-serif;
+    background-color: rgb(164, 74, 74);
 }
+    
+ .mywordl{
+    color: rgb(255, 223, 42);
+}
+ 
+
 img{
     width: 300px; //largura
     border-radius: 300px;
 }
 
-h1{ color: rgb(255, 223, 42);
+h1{ 
+    font-family: "Nerko One", cursive;
+    color: rgb(255, 223, 42);
+}
+
+.title-song{
+    color: rgb(255, 223, 42);
+}
+
+ol{
+    background-color: rgb(219, 142, 155);
+    color: rgb(48, 210, 156);
 }
